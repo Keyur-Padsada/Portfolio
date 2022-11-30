@@ -1,0 +1,22 @@
+.intro{
+    text-align: center;
+    
+}
+
+.intro p{
+    margin: 25px;
+}
+
+.hello , .thank {
+    color:green;
+    font-size: 35px;
+}
+
+.cgpa , .job ,.skill{
+    color: chartreuse;
+    font-weight: bold;
+}
+
+.hello{
+    margin-top: 25px;
+}

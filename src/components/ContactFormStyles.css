@@ -1,0 +1,43 @@
+.form{
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    margin: 5rem 0 0 0;
+}
+
+
+
+.from-line input{
+    padding: 10px 0 0 10px;
+    margin: 0 0 0 15px;
+    border-radius: 5px;
+    width: 250px;
+    height: 50px;
+    
+}
+
+.btn-submit{
+    text-align: center;
+    margin: 100px auto  ;
+    width: 150px;
+}
+
+.f1 input{
+    margin: 0 0 0 75px;
+}
+.f2 input{
+    margin: 20px 0 0 60px;
+}
+.f3 input{
+    margin: 20px 0 0 50px;
+}
+.f4 input{
+    margin: 20px 0 0 63px;
+}
+.f5 input{
+    margin: 20px 0 0 45px;
+}
+
+/* .from-line button{
+   margin-top: 100px;
+} */
